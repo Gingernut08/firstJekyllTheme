@@ -4,4 +4,4 @@ layout: default
 ---
 
 # firstJekyllTheme
-## Simple dark mode
+Simple dark mode
