@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# firstJekyllTheme
+## Simple dark mode
